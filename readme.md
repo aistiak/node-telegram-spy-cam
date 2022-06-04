@@ -10,3 +10,5 @@ ACTIVATION_TEXT=snap
 - run main.js `node main.js`
 
 **you can find detailed article hear**
+
+https://dev.to/istiak/remotely-controlled-spycam-with-nodejs-and-telegram-564o
